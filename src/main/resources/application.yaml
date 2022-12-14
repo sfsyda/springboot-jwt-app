@@ -1,0 +1,3 @@
+
+jwt:
+  secret: "shaziya-secret-key-1" #Can be kept in secure place like secret manager in aws
